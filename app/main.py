@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="Kruse Capital Advisor",
+    title="TR Dashboard",
     description="Intelligent microservice for investment analysis and actionable trading advice",
     version="2.0.0",
     docs_url="/docs",
